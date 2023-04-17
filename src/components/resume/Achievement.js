@@ -11,53 +11,53 @@ const Achievement = () => {
         >
             <div>
                 <div className="py-12 font-titleFont flex flex-col gap-4">
-                    <p className="text-sm text-yellow-300 tracking-[4px]">2007 - 2010</p>
-                    <h2 className="text-4xl font-bold">Company Experience</h2>
+                    <p className="text-sm text-yellow-300 tracking-[4px]">2021 - 2023</p>
+                    <h2 className="text-4xl font-bold">Awards</h2>
                 </div>
                 <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
                     <ResumeCard
-                        title="Lorem ipsum dolor sit amet."
-                        subTitle="Lorem ipsum dolor sit amet alternative."
+                        title="College Delegate."
+                        subTitle="Cuvette."
                         result="Success"
-                        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+                        des="College Delegate for MEME-a-Thon Contest held on Instagram!"
                     />
                     <ResumeCard
-                        title="Lorem ipsum dolor sit amet."
-                        subTitle="Lorem ipsum dolor sit amet alternative."
+                        title="Spotify App Workshop."
+                        subTitle="Cuvette."
                         result="Success"
-                        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+                        des="Live coding workshop conducted by Cuvette Tech!"
                     />
                     <ResumeCard
-                        title="Lorem ipsum dolor sit amet."
-                        subTitle="Lorem ipsum dolor sit amet alternative."
+                        title="Bussiness Development."
+                        subTitle="Cuvette."
                         result="Success"
-                        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+                        des="Cuvette is a career app for all college students. Promoted a MERN-Devlopment Cources in Cuvette!"
                     />
                 </div>
             </div>
             <div>
                 <div className="py-12 font-titleFont flex flex-col gap-4">
-                    <p className="text-sm text-yellow-300 tracking-[4px]">2007 - 2010</p>
-                    <h2 className="text-4xl font-bold">Job Experience</h2>
+                    <p className="text-sm text-yellow-300 tracking-[4px]">2022 - 2023</p>
+                    <h2 className="text-4xl font-bold">Certifications</h2>
                 </div>
                 <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
                     <ResumeCard
-                        title="Lorem ipsum dolor sit amet."
-                        subTitle="Lorem ipsum dolor sit amet alternative."
+                        title="Java Full Stack Development."
+                        subTitle="KODNEST."
                         result="Success"
-                        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+                        des="KodNest is an edutech platform for skill development and job aspirants.!"
                     />
                     <ResumeCard
-                        title="Lorem ipsum dolor sit amet."
-                        subTitle="Lorem ipsum dolor sit amet alternative."
+                        title="MERN Stack Development."
+                        subTitle="UDEMY."
                         result="Success"
-                        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+                        des="MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js.!"
                     />
                     <ResumeCard
-                        title="Lorem ipsum dolor sit amet."
-                        subTitle="Lorem ipsum dolor sit amet alternative."
+                        title="REACT JS Development."
+                        subTitle="GREAT LEARNING."
                         result="Success"
-                        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+                        des="React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components.!"
                     />
                 </div>
             </div>
