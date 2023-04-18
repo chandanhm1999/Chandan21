@@ -1,6 +1,7 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 import { contactImg } from "../../assets/index";
+import { InstagramOutlined, WhatsAppOutlined } from "@ant-design/icons"
 
 const ContactLeft = () => {
     return (
@@ -28,6 +29,7 @@ const ContactLeft = () => {
             <div className="flex flex-col gap-4">
                 <h2 className="text-base uppercase font-titleFont text-yellow-300 mb-4">Find me in</h2>
                 <div className="flex gap-4">
+<<<<<<< HEAD
                     <a href="https://www.linkedin.com/in/chandan-hm-b8319021a" className="bannerIcon">
                                 <p className='text-white hover:text-yellow-400'><FaLinkedinIn /></p>
                             </a>
@@ -37,6 +39,21 @@ const ContactLeft = () => {
                             <a href='https://www.facebook.com/profile.php?id=100009443863718' className="bannerIcon">
                                 <p className='text-white hover:text-yellow-400'><FaFacebookF /></p>
                             </a>
+=======
+                    <a href='https://wa.me/8105114625' className="bannerIcon pb-2">
+                        <p className='text-white hover:text-yellow-400'><WhatsAppOutlined /></p>
+                    </a>
+                    <a href="https://www.linkedin.com/in/chandan-hm-b8319021a" className="bannerIcon">
+                        <p className='text-white hover:text-yellow-400'><FaLinkedinIn /></p>
+                    </a>
+                    <a href='https://www.instagram.com/life_on_roads_20/' className="bannerIcon pb-2">
+                        <p className='text-white hover:text-yellow-400'><InstagramOutlined /></p>
+                    </a>
+                    <a href='https://www.facebook.com/profile.php?id=100009443863718' className="bannerIcon">
+                        <p className='text-white hover:text-yellow-400'><FaFacebookF /></p>
+                    </a>
+
+>>>>>>> 6915e17 (my commit responsive edit)
                 </div>
             </div>
         </div>
