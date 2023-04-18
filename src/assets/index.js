@@ -7,7 +7,8 @@ import Figma from "./images/projects/figma.png";
 import data from "./images/projects/data.png";
 import portofilo from "./images/projects/protfilo.png";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
-import testimonialTwo from "./images/testmonial/testimonialTwo.png";
+import testimonialTwo from "./images/testmonial/testimonialTwo.jpg";
+import edyodha from "./images/testmonial/edyoda.jpg";
 
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
@@ -24,5 +25,6 @@ export {
   contactImg,
   Figma,
   data,
-  portofilo
+  portofilo,
+  edyodha
 };

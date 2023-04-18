@@ -33,7 +33,7 @@ const Projects = () => {
                     src2="https://c-devops-cart-ecommerce-app.vercel.app"
                 />
                 <ProjectsCard
-                    title="Resturant UI Design"
+                    title="Restaurant UI Design"
                     des=" Designing a restaurant app using React Next.js CSS & JavaScript to be responsive design and functional.!
                     We can book a Pizza By this store & we can contact the store by entering the email"
                     src={projectThree}
@@ -41,7 +41,7 @@ const Projects = () => {
                     src2="https://fast-pizza-restaurant-react-app-ui-design.vercel.app/"
                 />
                 <ProjectsCard
-                    title="My-Protfolio-Website"
+                    title="My-Portfolio-Website"
                     des=" A Front-End Developer portfolio serves to showcase your skills, past projects, and experience with front-end development.!"
                     src={portofilo}
                     src1="https://github.com/chandanhm1999/My-Protfolio-Website-Chandan-HM"

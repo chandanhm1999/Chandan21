@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from '../layouts/Title'
-import { testimonialOne, testimonialTwo, quote } from "../../assets";
+import { testimonialOne, testimonialTwo, quote, edyodha } from "../../assets";
 
 
 function SampleNextArrow(props) {
@@ -111,11 +111,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-yellow-300 tracking-wide mb-2">
-                    Bound - Trolola
+                    C_Devops.!
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Chandan HM</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Front-End Developer
                   </p>
                 </div>
               </div>
@@ -125,10 +125,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        PORTFOLIO-WEBSITE.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        Mar 4, 2023 - April 18, 2023
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -140,11 +140,10 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    A Front-End Developer portfolio serves to showcase your skills, past projects, and experience with front-end development.!
+                  </p>
+                  <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
+                    Technologies: React Js, HTML 5, Tailwind Css & Email JS! // Tools: VS Code!
                   </p>
                 </div>
               </div>
@@ -162,11 +161,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-yellow-300 tracking-wide mb-2">
-                    Bound - Trolola
+                    letsendorse
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Monika Shukla</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Tech Manager
                   </p>
                 </div>
               </div>
@@ -176,10 +175,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        User authentication and management application.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Cuvette - Feb 22, 2023 - Feb 25, 2023 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -191,11 +190,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    The payload must include the basic details of the user such as the email, mobile number, full name and initial password. Once the data is received at the backend, all PII (Personally identifiable data) such as email, mobile number and full name are to be encrypted using a strong public key
                   </p>
                 </div>
               </div>
@@ -208,16 +203,16 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
+                  src={edyodha}
                   alt="testimonialOne"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-yellow-300 tracking-wide mb-2">
-                    Bound - Trolola
+                    Edyodha
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Vaibhav</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Tech Manager
                   </p>
                 </div>
               </div>
@@ -227,10 +222,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        Edyodha Web Page-Clone.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Cuvette - Mar 28, 2023 - Apr 01, 2023 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -242,11 +237,14 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    To Create a 1. Homepage
+                    2. Modules Page
+                    3. Instructor Page
+                    & there functionalities are to be implemented & It should be responsive!
+
+                  </p>
+                  <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
+                    Technologies: React Js, Redux, React-router, HTML 5, Css // Tools: VS Code!
                   </p>
                 </div>
               </div>

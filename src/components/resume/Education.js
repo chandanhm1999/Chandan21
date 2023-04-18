@@ -25,13 +25,13 @@ const Education = () => {
           <ResumeCard
             title="Diploma - Mechanical Engineering(Instrumentation)"
             subTitle="SJ(Govt)Polytechnic (2015 - 2018)"
-            result="4.75/5"
+            result="75%"
             des="The diploma course is designed in such a way that students are capable of performing engineering tasks."
           />
           <ResumeCard
             title="Secondary School Education"
             subTitle="Mysemco English School (2014 - 2015)"
-            result="5.00/5"
+            result="72.16%"
             des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
           />
         </div>
