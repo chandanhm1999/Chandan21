@@ -18,19 +18,19 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="BE - Mechanical Engineering"
-            subTitle="Don Bosco Institute of Technology (2018 - 2021)"
+            subTitle="Don Bosco Institute of Technology Bangalore (2018 - 2021)"
             result="7.13/10"
             des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
           />
           <ResumeCard
             title="Diploma - Mechanical Engineering(Instrumentation)"
-            subTitle="SJ(Govt)Polytechnic (2015 - 2018)"
+            subTitle="SJ(Govt)Polytechnic Bangalore (2015 - 2018)"
             result="75%"
             des="The diploma course is designed in such a way that students are capable of performing engineering tasks."
           />
           <ResumeCard
             title="Secondary School Education"
-            subTitle="Mysemco English School (2014 - 2015)"
+            subTitle="Mysemco Junior College Ammasandra (2014 - 2015)"
             result="72.16%"
             des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
           />
@@ -45,20 +45,20 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="FrontEnd Developer Trainee"
+            title="Front-End Developer"
             subTitle="Rayabhari Technologies Pvt Ltd - (2022 - Present)"
             result="Bangalore"
             des="A Company which converts your ideas to software applcation using trending technologies. A Front-End Developer is someone who creates websites and web applications."
           />
           <ResumeCard
-            title="Web Developement & Designing"
+            title="Web Developement & Designing Intern"
             subTitle="The Sparks Foundation - (2021 - 2023)"
             result="Online"
             des="The Sparks Foundation. This brand new education nonprofit trying to sell students hope for successful future. they have created multiple programs to help students reach their maximum potential."
           />
           <ResumeCard
-            title="Intern"
-            subTitle="Printon Smart Engineers (HVAC - Design) - (2021 - 2021)"
+            title="HVAC - Design Intern"
+            subTitle="Printon Smart Engineers - (2021 - 2021)"
             result="Bangalore"
             des="In Skill development and Training program for Engineering students in different domain. P S E is a Mechanical, Electrical and Plumbing Design consultancy, we design, build, construct, supply, install, service and upgrade of Electro-Mechanical Systems & Networks, Utilities and Equipment."
           />

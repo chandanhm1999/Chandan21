@@ -29,7 +29,7 @@ const ContactLeft = () => {
             <div className="flex flex-col gap-4">
                 <h2 className="text-base uppercase font-titleFont text-yellow-300 mb-4">Find me in</h2>
                 <div className="flex gap-4">
-                    <a href='https://wa.me/8105114625' className="bannerIcon pb-2">
+                    <a href='https://wa.me/+918105114625' className="bannerIcon pb-2">
                         <p className='text-white hover:text-yellow-400'><WhatsAppOutlined /></p>
                     </a>
                     <a href="https://www.linkedin.com/in/chandan-hm-b8319021a" className="bannerIcon">

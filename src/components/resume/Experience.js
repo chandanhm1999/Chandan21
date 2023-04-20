@@ -16,20 +16,20 @@ const Experience = () => {
                 </div>
                 <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
                     <ResumeCard
-                        title="FrontEnd Developer Trainee"
+                        title="Front-End Developer"
                         subTitle="Rayabhari Technologies Pvt Ltd - (2022 - Present)"
                         result="Bangalore"
                         des="A Company which converts your ideas to software applcation using trending technologies. A Front-End Developer is someone who creates websites and web applications."
                     />
                     <ResumeCard
-                        title="Web Developement & Designing"
+                        title="Web Developement & Designing Intern"
                         subTitle="The Sparks Foundation - (2012 - 2016)"
                         result="Online"
                         des="The Sparks Foundation. This brand new education nonprofit trying to sell students hope for successful future. they have created multiple programs to help students reach their maximum potential."
                     />
                     <ResumeCard
-                        title="Intern"
-                        subTitle="Printon Smart Engineers (HVAC - Design) - (2021 - 2021)"
+                        title="Intern HVAC - Design"
+                        subTitle="Printon Smart Engineers - (2021 - 2021)"
                         result="Bangalore"
                         des="In Skill development and Training program for Engineering students in different domain."
                     />
@@ -45,7 +45,7 @@ const Experience = () => {
                         title="BDE Intern"
                         subTitle="CUVETTE TECH PRIVATE LIMITED (2022 - 2022)"
                         result="Bangalore"
-                        des="Cuvette is a career app for all college students. "
+                        des="Cuvette is a career app for all college students. Promoting of MERN Stack Course for College Students "
                     />
                     <ResumeCard
                         title="Business Development Intern"
