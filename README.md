@@ -14,3 +14,9 @@ Features
 * React-Bootstrap
 * Edit Content From One Place
 * TailwindCSS
+
+Setup
+
+Get the code
+
+git clone
