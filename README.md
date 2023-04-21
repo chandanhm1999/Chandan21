@@ -15,8 +15,16 @@ Features
 * Edit Content From One Place
 * TailwindCSS
 
-Setup
+> Setup
 
-Get the code
+-Get the code
 
-git clone
+git clone https://github.com/chandanhm1999/My-Protfolio-Website-Chandan-HM
+
+> Install required dependencies
+
+nmp install
+
+> Start the server
+
+npm start
