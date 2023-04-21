@@ -23,7 +23,7 @@ git clone https://github.com/chandanhm1999/My-Protfolio-Website-Chandan-HM
 
 - Install required dependencies
 
-> nmp install
+> npm install
 
 - Start the server
 
