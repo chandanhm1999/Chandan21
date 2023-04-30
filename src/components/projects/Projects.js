@@ -55,11 +55,11 @@ const Projects = () => {
                     src2="https://react-js-loginpage-letsendorse.vercel.app/"
                 />
                 <ProjectsCard
-                    title="JAVA-Data Structures & Algorithms"
-                    des=" This Project Concentrates On the Implementation of Linear Data Structures Like *.Array *.Stack *.Queue *.Circular Queue *.Singly Linked List *.doubly Linked List!"
+                    title="Moobeyond Ecommerce"
+                    des="Moobeyond is an e-commerce website built using Next.js and Redux, with a focus on SEO optimization. The technologies used provide a fast, scalable, and user-friendly platform for customers."
                     src={data}
-                    src1="https://github.com/chandanhm1999/Java-Mini-Project-1"
-                    src2="https://github.com/chandanhm1999/Java-Mini-Project-1/blob/main/chandan%20hm%208105114625.jar"
+                    src1="https://github.com/chandanhm1999"
+                    src2="https://moobeyond.com/home"
                 />
                 
             </div>
