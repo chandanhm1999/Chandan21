@@ -222,7 +222,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Edyodha Web Page-Clone.
+                        Edyoda Web Page-Clone.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Cuvette - Mar 28, 2023 - Apr 01, 2023 test
