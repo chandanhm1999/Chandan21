@@ -9,7 +9,7 @@ https://my-protfolio-web-chandan-hm.vercel.app/
 
 ![Screenshot 2023-04-02 215345](https://user-images.githubusercontent.com/109410990/229365831-ac8c2058-2e22-435a-9409-7088c5478018.png)
 
-### Features
+## Features
 
 * Fully Responsive
 * Multi-Page Layout
@@ -20,7 +20,7 @@ https://my-protfolio-web-chandan-hm.vercel.app/
 
 > Setup
 
-### Get the code
+## Get the code
 
 ```
  git clone https://github.com/chandanhm1999/My-Protfolio-Website-Chandan-HM
