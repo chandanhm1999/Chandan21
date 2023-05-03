@@ -1,12 +1,15 @@
-Created My Protfolio Website using React Js & Tailwind Css
+### Created My Protfolio Website using React Js & Tailwind Css
 
-Link: https://my-protfolio-web-chandan-hm.vercel.app/
+##Link: https://my-protfolio-web-chandan-hm.vercel.app/
+```
+https://my-protfolio-web-chandan-hm.vercel.app/
+```
 
-A Front-End Developer portfolio serves to showcase your skills, past projects, and experience with front-end development. Potential clients and employers rely on this information when deciding whether or not you’re right for the job.
+### A Front-End Developer portfolio serves to showcase your skills, past projects, and experience with front-end development. Potential clients and employers rely on this information when deciding whether or not you’re right for the job.
 
 ![Screenshot 2023-04-02 215345](https://user-images.githubusercontent.com/109410990/229365831-ac8c2058-2e22-435a-9409-7088c5478018.png)
 
-Features
+### Features
 
 * Fully Responsive
 * Multi-Page Layout
@@ -15,16 +18,22 @@ Features
 * Edit Content From One Place
 * TailwindCSS
 
-^ Setup
+> Setup
 
--Get the code
+### Get the code
 
-git clone https://github.com/chandanhm1999/My-Protfolio-Website-Chandan-HM
+```
+ git clone https://github.com/chandanhm1999/My-Protfolio-Website-Chandan-HM
+ ```
 
-- Install required dependencies
+### Install required dependencies
 
-> npm install
+```
+npm install
+```
 
-- Start the server
+### Start the server
 
-> npm start
+```
+npm start
+```
