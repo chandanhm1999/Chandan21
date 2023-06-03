@@ -1,6 +1,6 @@
 ## Created My Protfolio Website using React Js & Tailwind Css
 
-## Link: https://my-protfolio-web-chandan-hm.vercel.app/
+## Link: https://chandan21.vercel.app
 ```
 https://my-protfolio-web-chandan-hm.vercel.app/
 ```
