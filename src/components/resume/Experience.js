@@ -33,6 +33,12 @@ const Experience = () => {
                         result="Bangalore"
                         des="In Skill development and Training program for Engineering students in different domain."
                     />
+                    <ResumeCard
+                        title="Intern HVAC - Design"
+                        subTitle="Printon Smart Engineers - (2021 - 2021)"
+                        result="Bangalore"
+                        des="In Skill development and Training program for Engineering students in different domain."
+                    />
                 </div>
             </div>
             <div>
