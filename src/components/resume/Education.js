@@ -52,7 +52,7 @@ const Education = () => {
           />
           <ResumeCard
             title="Front-End Developer"
-            subTitle="Rayabhari Technologies Pvt Ltd - (2022 - Present)"
+            subTitle="Rayabhari Technologies Pvt Ltd - (2022 - 2023)"
             result="Bangalore"
             des="A Company which converts your ideas to software applcation using trending technologies. A Front-End Developer is someone who creates websites and web applications."
           />
