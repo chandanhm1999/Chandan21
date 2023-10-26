@@ -45,6 +45,12 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+                        title="Associate Software Engineer [PERN Stack]"
+                        subTitle="Nuvteq Solutions - (2023 Present)"
+                        result="Bangalore"
+                        des="NUVTEQ is a software solution company with passion and single-minded focus on providing efficient, robust and cost-effective software solutions for clients"
+          />
+          <ResumeCard
             title="Front-End Developer"
             subTitle="Rayabhari Technologies Pvt Ltd - (2022 - Present)"
             result="Bangalore"
@@ -55,12 +61,6 @@ const Education = () => {
             subTitle="The Sparks Foundation - (2021 - 2023)"
             result="Online"
             des="The Sparks Foundation. This brand new education nonprofit trying to sell students hope for successful future. they have created multiple programs to help students reach their maximum potential."
-          />
-          <ResumeCard
-            title="HVAC - Design Intern"
-            subTitle="Printon Smart Engineers - (2021 - 2021)"
-            result="Bangalore"
-            des="In Skill development and Training program for Engineering students in different domain. P S E is a Mechanical, Electrical and Plumbing Design consultancy, we design, build, construct, supply, install, service and upgrade of Electro-Mechanical Systems & Networks, Utilities and Equipment."
           />
         </div>
       </div>
