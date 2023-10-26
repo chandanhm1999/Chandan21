@@ -45,10 +45,10 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-                        title="Associate Software Engineer [PERN Stack]"
-                        subTitle="Nuvteq Solutions - (2023 Present)"
-                        result="Bangalore"
-                        des="NUVTEQ is a software solution company with passion and single-minded focus on providing efficient, robust and cost-effective software solutions for clients"
+            title="Associate Software Engineer [PERN Stack]"
+            subTitle="Nuvteq Solutions - (2023 Present)"
+            result="Bangalore"
+            des="NUVTEQ is a software solution company with passion and single-minded focus on providing efficient, robust and cost-effective software solutions for clients"
           />
           <ResumeCard
             title="Front-End Developer"
